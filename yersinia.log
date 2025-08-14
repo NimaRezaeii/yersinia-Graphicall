@@ -1,0 +1,67 @@
+# yersinia v0.8.2 started in kali on Thu Aug 14 11:17:35 2025
+
+Network Interface eth0
+
+ eth0 iflinkname EN10MB
+ eth0 iflinkdesc Ethernet
+ eth0 MAC = 000c.29f8.e59b
+Network Interface lo
+
+ lo iflinkname EN10MB
+ lo iflinkdesc Ethernet
+ lo MAC = 0000.0000.0000
+Network Interface bluetooth-monitor
+pcap_open_live failed: bluetooth-monito: No such device exists (No such device exists)
+Network Interface nflog
+Network Interface nfqueue
+Network Interface dbus-system
+Network Interface dbus-session
+pcap_open_live failed: dbus-session: Failed to get session bus: /usr/bin/dbus-launch terminated abnormally with the following error: Failed to waitpid() for babysitter intermediate process: No child processes
+
+
+ th_uptime thread = EE8C46C0
+
+ gtk_gui_th = EE0C36C0
+Error in gtk_tree_view_get_model
+Error in gtk_tree_view_get_model
+Error in gtk_tree_view_get_model
+Error in gtk_tree_view_get_model
+Error in gtk_tree_view_get_model
+Error in gtk_tree_view_get_model
+Error in gtk_tree_view_get_model
+Error in gtk_tree_view_get_model
+Error in gtk_tree_view_get_model
+Error in gtk_tree_view_get_model
+Error in gtk_tree_view_get_model
+Error in gtk_tree_view_get_model
+Error in gtk_tree_view_get_model
+Error in gtk_tree_view_get_model
+Error in gtk_tree_view_get_model
+Error in gtk_tree_view_get_model
+Error in gtk_tree_view_get_model
+Error in gtk_tree_view_get_model
+Error in gtk_tree_view_get_model
+Error in gtk_tree_view_get_model
+Error in gtk_tree_view_get_model
+Error in gtk_tree_view_get_model
+Error in gtk_tree_view_get_model
+Error in gtk_tree_view_get_model
+Exiting GTK mode...
+
+ gtk_gui_th_exit start...
+ gtk_gui_th_exit finish...
+ g00dbye function called from EF0C6D80
+
+ ints_destroy started...
+ ints_destroy killing pcap_listener(-284404032)...
+
+ thread_destroy EF0C6D80 destroying EF0C56C0...
+
+ ints_pcap_listen_exit started...
+
+ ints_pcap_listen_exit finished...
+ thread_destroy EF0C6D80 after PTHREAD_JOIN 0...
+ ints_destroy finished...
+ Showing MOTD..
+# yersinia finished on Thu Aug 14 11:17:48 2025
+
